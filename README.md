@@ -35,4 +35,4 @@ I am a first-year **Computer Science (Information Systems)** student at the **Un
 ### 📫 Let's Connect!
 
 *   **Email:** isaactoh2610@gmail.com
-*   **LinkedIn:** **(www.linkedin.com/in/isaac-toh-zhen-yong-94320938b)**
+*   **LinkedIn:** **www.linkedin.com/in/isaac-toh-zhen-yong-94320938b**
