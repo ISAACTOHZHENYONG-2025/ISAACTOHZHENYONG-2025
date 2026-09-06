@@ -1,15 +1,14 @@
 ### Hi there, I'm Isaac Toh! 👋 
 
-I am a first-year **Computer Science (Information Systems)** student at the **University of Malaya**. I love building digital products that sit right at the intersection of **UI/UX design** and **software development**—combining clean code with intuitive, premium user experiences.
+I am a second-year **Computer Science (Information Systems)** student at the **University of Malaya**. I love building digital products that sit right at the intersection of **UI/UX design** and **software development**—combining clean code with intuitive, premium user experiences. Actively expanding my tech stack and skills.
 
-🚀 **I am currently seeking a 3-month internship (July – October 2026)** where I can leverage my design interests and foundational coding experience to create user-friendly software solutions.
 
 ---
 
 ### 🌟 Featured Project
 
 *   **[UniFlow — AI-Powered University Life Hub](https://frontend-six-swart-83.vercel.app/)** 
-    An AI platform designed to streamline scheduling and finances for university students. Built using the **"Midnight Amethyst"** design system featuring dark themes and glassmorphism for a premium consumer experience. 
+    An AI platform designed to streamline scheduling and finances for university students. Built featuring sleek dark themes and glassmorphism for a premium consumer experience. 
     *Tech Stack: Groq LLM, Bright Data SERP, Firebase, Tailwind CSS, HTML, JavaScript*
 
 ---
